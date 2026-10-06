@@ -1,0 +1,13 @@
+KSUQK鼉??fac_mac = FC:83:C6:0F:AA:3E
+fac_key = 2237d109e8eb953437d7226d41d47658596b0dc6454146988b2d1f930e8814fc2f1f2541e9eaa8222b0852bb8c21d6a86225e2177e7d42c0fe09c852f3f70263776ca263145cdb9c59d8003d3e62db59a1ef2bcd9e2f3e3d52beeeab89a3611d8824625e25a0049e68193ffb71b8a1f3dba1238fe4ae36ae988d7dcfef3c5e35
+speedctl = 0
+imei = 861464060066681
+cpesel = 1/2/1-1,1-2//0,4/0:0:1,0:27:0
+simid = 0
+iccid = 89860623580056432940
+board = WT9103
+device_code = KWWL8dha
+oem_ptype = rt
+oem_pname = C8-660
+oem_vendor = nradio
+
