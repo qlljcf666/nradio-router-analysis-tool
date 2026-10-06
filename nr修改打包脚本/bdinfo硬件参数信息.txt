@@ -1,0 +1,23 @@
+root@nradio:~# bdinfo help
+Usage: bdinfo OPTION...
+        -g key      get value by key
+        -v          get version
+        -m          get mac
+        -c          get all custom info
+        -w          write name = val info
+root@nradio:~# bdinfo -c
+fac_mac = 44:37:0B:F0:F7:00
+fac_key = 70b2bd6f2b7e4cc7ae1f93db143e67bc5c2f2e861da42f17424d290c67313b57ad1bee259af25a3a9bdae3349291935d10034b35a5fb0be8e544a62f983bc3df318453d7d76f40d0f4ed1d77a47704b4e9cbf1b225bf5271eefb2aeb4452b1f5afa32f1217f837dc190675e6fefb0617881f938f5ff2966e59a892bbacf0793b
+MTsn = 03015C0200648
+nobattery = 1
+eauthenticity = 5544793A3XTAC081TA82N
+device_code = A7DsZg42
+cpesel = 0/1/1//0/0:0:1
+speedctl = 0
+imei = 863495063899759
+board = WT2967
+oem_ptype = rt
+oem_pname = ML-UW-1
+oem_vendor = odm
+cpe_accumulation = 0.00000:0.00026:0.00000:0.00000:2026-9-8
+cpe1_accumulation = 0.00000:0.00000:0.00000:0.00000:2026-9-8
