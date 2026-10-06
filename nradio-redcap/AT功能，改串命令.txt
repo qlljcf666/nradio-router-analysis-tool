@@ -1,0 +1,9 @@
+AT功能密码 admin@0515
+改串有风险，请谨慎操作！！！
+改串命令
+AT^PHYNUM=IMEI,1234567890
+
+鲲鹏无限官方网盘https://bj32400.apps.aliyunfile.com/disk/s/LaGkJ21uFfA?domainId=bj32400
+
+cpetools.sh -t 0 -c 'AT+SPIMEI=0,"串号"'
+atsh ATI
